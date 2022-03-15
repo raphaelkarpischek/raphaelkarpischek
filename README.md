@@ -1,13 +1,11 @@
 ### Olá! Eu sou o Raphael Karpischek Martinez! 👋
 
-- 🔭 Trabalhando com back-end
-- 🌱 Estudando Node.JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+  ##
+
+- 💻 Trabalhando como desenvolvedor back-end jr na Taking
+- 📚 Estudando Node.JS
+- 💬 Sobre mim: Gosto de tecnologia, carros, filmes e viajar 
+
 
 <div align="center">
   <a href="https://github.com/raphaelkarpischek">
